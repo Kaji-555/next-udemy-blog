@@ -1,3 +1,11 @@
+# Udemy学習用リポジトリ：Next.js超入門講座
+
+このリポジトリは、Udemyの講座「【Next.js】フルスタック開発基本講座(TypeScript/Prisma/Auth)【脱初心者/わかりやすさ重視】」の受講に伴う、学習・写経用のプロジェクトです。
+
+## 目的
+* Next.js（App Router）の基本機能の習得
+* TypeScriptを用いたコンポーネント開発の練習
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

@@ -18,7 +18,7 @@ export default function PublicHeader() {
                         <NavigationMenuList>
                             <NavigationMenuItem>
                                 <NavigationMenuLink asChild>
-                                    <Link href="/dashboard" className="font-bold text-xl"><span>ホームページ</span></Link></NavigationMenuLink>
+                                    <Link href="/dashboard" className="font-bold text-xl"><span>管理ページ</span></Link></NavigationMenuLink>
                             </NavigationMenuItem>
                         </NavigationMenuList>
                     </NavigationMenu>
